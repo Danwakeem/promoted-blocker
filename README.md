@@ -1,4 +1,6 @@
-#Hey there,
+# Hey there,
+
+> RIP. Chrome Extensions are no more. Sad day :(
 
 This is just a simple chrome extension to block all promoted content on twitter. Most ad blockers have a lot of over head and I just wanted a little something light and spacific to what I need
 
